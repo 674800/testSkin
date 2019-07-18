@@ -1,0 +1,1 @@
+include ':app',':xskinloader-lib',  ':testskin2'
